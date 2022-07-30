@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'TravelGate'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_20DEB9CEA75D458E8BFD85AD4D4A4C64 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_29827B7935914C01A6B16BF01E6059DF }}
           package: .
